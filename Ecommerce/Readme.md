@@ -98,5 +98,5 @@ O diagrama **EER** foi criado no **MySQL Workbench** e está disponível no arqu
 
 ## Autor
 - [Ian Ramos](www.linkedin.com/in/ian-ramos-)
-- [GitHub: seu-usuario](https://github.com/Ian-Ramoss)
+- [GitHub](https://github.com/Ian-Ramoss)
 
