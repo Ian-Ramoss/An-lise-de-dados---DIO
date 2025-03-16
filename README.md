@@ -3,7 +3,7 @@
 Este projeto consiste na modelagem de dados de um sistema de e-commerce, utilizando o **MySQL Workbench** para criar um diagrama **EER** (Enhanced Entity-Relationship). O objetivo é representar as entidades, atributos e relacionamentos necessários para um sistema de vendas online.
 
 ## IMAGEM:
-[Ecommerce_refinado.png]
+![Preview](Ecommerce_refinado.png)
 
 ## Entidades e Atributos
 
