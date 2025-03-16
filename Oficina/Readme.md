@@ -97,5 +97,5 @@ Este projeto apresenta um esquema conceitual para um sistema de controle e geren
 
 ## Autor
 - [Ian Ramos](www.linkedin.com/in/ian-ramos-)
-- [GitHub: seu-usuario](https://github.com/Ian-Ramoss)
+- [GitHub](https://github.com/Ian-Ramoss)
 
