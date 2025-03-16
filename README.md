@@ -72,7 +72,7 @@ O **Bootcamp Heineken - Inteligência Artificial Aplicada a Dados com Copilot** 
 
 ## Autor
 - [Ian Ramos](www.linkedin.com/in/ian-ramos-)
-- [GitHub: seu-usuario](https://github.com/Ian-Ramoss)
+- [GitHub](https://github.com/Ian-Ramoss)
 
 ---
 
