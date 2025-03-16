@@ -4,6 +4,11 @@ Este projeto apresenta um esquema conceitual para um sistema de controle e geren
 
 ---
 
+## IMAGEM:
+![Preview](Oficina.png)
+
+---
+
 ## 🗂️ Entidades e Atributos
 
 ### **Cliente**
